@@ -14,3 +14,23 @@ Pe masura ce un rezident este angajat, se creaza un nou element caracterizat de 
 Elementul se adauga la match.
 
 *Meotda workFor() din clasa Resident, care incearca sa angajeze un rezident la un spital, se ocupa de diverse aspecte. Plecand de la verificarea posibilitatii de a face aceasta actiune (daca rezidentul nu e deja angajata sau daca spitalul are locuri valabile), pana la actualizarea informatiilor rezidentului, cat si a spitalului.
+
+Introducand setul de date de pe site-ul laboratorului, algoritmul duce la acelasi rezultat afisat si pe site, afisand:
+
+H0 hired R3
+
+H1 hired R0
+                            //afisate pe parcursul algoritmului
+H1 hired R2
+
+H2 hired R1
+
+The matching solution is:
+
+H0 -> R3
+
+H1 -> R0
+                            /matchul final afisat
+H1 -> R2
+
+H2 -> R1
