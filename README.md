@@ -17,20 +17,22 @@ Elementul se adauga la match.
 
 Introducand setul de date de pe site-ul laboratorului, algoritmul duce la acelasi rezultat afisat si pe site, afisand:
 
+//afisate pe parcursul algoritmului
+
 H0 hired R3
 
-H1 hired R0
-                            //afisate pe parcursul algoritmului
+H1 hired R0  
+                            
 H1 hired R2
 
 H2 hired R1
 
-The matching solution is:
+The matching solution is:  //matchul final afisat
 
 H0 -> R3
 
 H1 -> R0
-                            /matchul final afisat
+                            
 H1 -> R2
 
 H2 -> R1
